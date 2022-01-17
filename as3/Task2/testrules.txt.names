@@ -1,0 +1,100 @@
+wild kmethodone -> place3 fr=332 (0.5918), cf=0.965, gamma=1.551, delta=0.210, M=-2.614e+02 
+weightnormal mother-female -> nursing fr=118 (0.2103), cf=0.602, gamma=2.862, delta=0.137, M=-1.565e+02 
+summer lab -> place9 fr=46 (0.0820), cf=1.000, gamma=12.196, delta=0.075, M=-1.563e+02 
+kmethodone lab -> place9 fr=46 (0.0820), cf=1.000, gamma=12.196, delta=0.075, M=-1.563e+02 
+nursing -> mother-female fr=118 (0.2103), cf=1.000, gamma=2.848, delta=0.136, M=-1.556e+02 
+place3 -> kmethodone fr=332 (0.5918), cf=0.951, gamma=1.368, delta=0.159, M=-1.544e+02 
+winter kmethodthree -> place2 fr=62 (0.1105), cf=0.939, gamma=7.027, delta=0.095, M=-1.462e+02 
+place2 -> kmethodthree fr=75 (0.1337), cf=1.000, gamma=4.095, delta=0.101, M=-1.260e+02 
+kmethodfour -> freezer fr=34 (0.0606), cf=1.000, gamma=16.500, delta=0.057, M=-1.256e+02 
+non-mother-female gonindhigh lab -> kmethodfour fr=34 (0.0606), cf=0.850, gamma=14.025, delta=0.056, M=-1.104e+02 
+non-mother-female gonindhigh lab -> freezer fr=34 (0.0606), cf=0.850, gamma=14.025, delta=0.056, M=-1.104e+02 
+place9 -> lab fr=46 (0.0820), cf=1.000, gamma=7.012, delta=0.070, M=-1.042e+02 
+non-mother-female weightnormal lab -> kmethodfour fr=34 (0.0606), cf=0.773, gamma=12.750, delta=0.056, M=-1.040e+02 
+non-mother-female weightnormal lab -> freezer fr=34 (0.0606), cf=0.773, gamma=12.750, delta=0.056, M=-1.040e+02 
+non-mother-female gonindhigh -> kmethodfour fr=34 (0.0606), cf=0.723, gamma=11.936, delta=0.056, M=-9.994e+01 
+non-mother-female gonindhigh -> freezer fr=34 (0.0606), cf=0.723, gamma=11.936, delta=0.056, M=-9.994e+01 
+non-mother-female lab -> kmethodfour fr=34 (0.0606), cf=0.708, gamma=11.688, delta=0.055, M=-9.871e+01 
+non-mother-female lab -> freezer fr=34 (0.0606), cf=0.708, gamma=11.688, delta=0.055, M=-9.871e+01 
+weightnormal gonindhigh lab -> kmethodfour fr=34 (0.0606), cf=0.694, gamma=11.449, delta=0.055, M=-9.752e+01 
+weightnormal gonindhigh lab -> freezer fr=34 (0.0606), cf=0.694, gamma=11.449, delta=0.055, M=-9.752e+01 
+gonindhigh lab heartindlow -> kmethodfour fr=32 (0.0570), cf=0.821, gamma=13.538, delta=0.053, M=-9.724e+01 
+gonindhigh lab heartindlow -> freezer fr=32 (0.0570), cf=0.821, gamma=13.538, delta=0.053, M=-9.724e+01 
+BMIsmall -> weightlow fr=63 (0.1123), cf=0.808, gamma=4.577, delta=0.088, M=-9.685e+01 
+gonindhigh lab -> kmethodfour fr=34 (0.0606), cf=0.680, gamma=11.220, delta=0.055, M=-9.638e+01 
+gonindhigh lab -> freezer fr=34 (0.0606), cf=0.680, gamma=11.220, delta=0.055, M=-9.638e+01 
+pregnant -> mother-female fr=79 (0.1408), cf=1.000, gamma=2.848, delta=0.091, M=-9.517e+01 
+liversmall lab heartindlow -> kmethodfour fr=29 (0.0517), cf=0.935, gamma=15.435, delta=0.048, M=-9.291e+01 
+liversmall gonindhigh heartindlow -> kmethodfour fr=29 (0.0517), cf=0.935, gamma=15.435, delta=0.048, M=-9.291e+01 
+liversmall lab heartindlow -> freezer fr=29 (0.0517), cf=0.935, gamma=15.435, delta=0.048, M=-9.291e+01 
+liversmall gonindhigh heartindlow -> freezer fr=29 (0.0517), cf=0.935, gamma=15.435, delta=0.048, M=-9.291e+01 
+non-mother-female liversmall heartindlow -> kmethodfour fr=29 (0.0517), cf=0.906, gamma=14.953, delta=0.048, M=-9.055e+01 
+non-mother-female liversmall heartindlow -> freezer fr=29 (0.0517), cf=0.906, gamma=14.953, delta=0.048, M=-9.055e+01 
+non-mother-female weightnormal heartindlow -> kmethodfour fr=32 (0.0570), cf=0.727, gamma=12.000, delta=0.052, M=-9.003e+01 
+non-mother-female weightnormal heartindlow -> freezer fr=32 (0.0570), cf=0.727, gamma=12.000, delta=0.052, M=-9.003e+01 
+place3 -> wild fr=349 (0.6221), cf=1.000, gamma=1.166, delta=0.089, M=-8.916e+01 
+non-mother-female heartindlow -> kmethodfour fr=32 (0.0570), cf=0.711, gamma=11.733, delta=0.052, M=-8.880e+01 
+non-mother-female heartindlow -> freezer fr=32 (0.0570), cf=0.711, gamma=11.733, delta=0.052, M=-8.880e+01 
+lab heartindlow -> kmethodfour fr=32 (0.0570), cf=0.696, gamma=11.478, delta=0.052, M=-8.761e+01 
+lab heartindlow -> freezer fr=32 (0.0570), cf=0.696, gamma=11.478, delta=0.052, M=-8.761e+01 
+liversmall heartindlow -> kmethodfour fr=29 (0.0517), cf=0.806, gamma=13.292, delta=0.048, M=-8.316e+01 
+liversmall heartindlow -> freezer fr=29 (0.0517), cf=0.806, gamma=13.292, delta=0.048, M=-8.316e+01 
+non-mother-female liversmall weightnormal -> kmethodfour fr=29 (0.0517), cf=0.806, gamma=13.292, delta=0.048, M=-8.316e+01 
+non-mother-female liversmall weightnormal -> freezer fr=29 (0.0517), cf=0.806, gamma=13.292, delta=0.048, M=-8.316e+01 
+gonindhigh heartindlow -> kmethodfour fr=32 (0.0570), cf=0.627, gamma=10.353, delta=0.052, M=-8.232e+01 
+gonindhigh heartindlow -> freezer fr=32 (0.0570), cf=0.627, gamma=10.353, delta=0.052, M=-8.232e+01 
+liversmall lab -> kmethodfour fr=29 (0.0517), cf=0.784, gamma=12.932, delta=0.048, M=-8.164e+01 
+liversmall lab -> freezer fr=29 (0.0517), cf=0.784, gamma=12.932, delta=0.048, M=-8.164e+01 
+non-mother-female liversmall -> kmethodfour fr=29 (0.0517), cf=0.763, gamma=12.592, delta=0.048, M=-8.021e+01 
+non-mother-female liversmall -> freezer fr=29 (0.0517), cf=0.763, gamma=12.592, delta=0.048, M=-8.021e+01 
+kmethodthree summer -> place1 fr=44 (0.0784), cf=0.620, gamma=6.099, delta=0.066, M=-7.879e+01 
+lab BMIlarge -> kmethodfour fr=24 (0.0428), cf=1.000, gamma=16.500, delta=0.040, M=-7.794e+01 
+lab BMIlarge -> freezer fr=24 (0.0428), cf=1.000, gamma=16.500, delta=0.040, M=-7.794e+01 
+weightnormal lab -> kmethodfour fr=34 (0.0606), cf=0.466, gamma=7.685, delta=0.053, M=-7.755e+01 
+weightnormal lab -> freezer fr=34 (0.0606), cf=0.466, gamma=7.685, delta=0.053, M=-7.755e+01 
+non-mother-female gonindhigh heartindlow -> lab fr=37 (0.0660), cf=0.974, gamma=6.828, delta=0.056, M=-7.729e+01 
+kmethodfour -> lab fr=34 (0.0606), cf=1.000, gamma=7.012, delta=0.052, M=-7.347e+01 
+freezer -> lab fr=34 (0.0606), cf=1.000, gamma=7.012, delta=0.052, M=-7.347e+01 
+liversmall gonindhigh -> kmethodfour fr=29 (0.0517), cf=0.659, gamma=10.875, delta=0.047, M=-7.301e+01 
+liversmall gonindhigh -> freezer fr=29 (0.0517), cf=0.659, gamma=10.875, delta=0.047, M=-7.301e+01 
+non-mother-female weightnormal heartindlow -> lab fr=39 (0.0695), cf=0.886, gamma=6.216, delta=0.058, M=-7.237e+01 
+non-mother-female gonindhigh -> lab fr=40 (0.0713), cf=0.851, gamma=5.968, delta=0.059, M=-7.100e+01 
+non-mother-female heartindlow -> lab fr=39 (0.0695), cf=0.867, gamma=6.077, delta=0.058, M=-7.044e+01 
+place2 -> winter fr=62 (0.1105), cf=0.827, gamma=3.336, delta=0.077, M=-6.892e+01 
+non-mother-female BMIlarge -> kmethodfour fr=24 (0.0428), cf=0.828, gamma=13.655, delta=0.040, M=-6.634e+01 
+non-mother-female BMIlarge -> freezer fr=24 (0.0428), cf=0.828, gamma=13.655, delta=0.040, M=-6.634e+01 
+non-mother-female weightnormal -> kmethodfour fr=34 (0.0606), cf=0.321, gamma=5.292, delta=0.049, M=-6.159e+01 
+non-mother-female weightnormal -> freezer fr=34 (0.0606), cf=0.321, gamma=5.292, delta=0.049, M=-6.159e+01 
+heartindlow BMIlarge -> kmethodfour fr=23 (0.0410), cf=0.793, gamma=13.086, delta=0.038, M=-6.110e+01 
+heartindlow BMIlarge -> freezer fr=23 (0.0410), cf=0.793, gamma=13.086, delta=0.038, M=-6.110e+01 
+gonindhigh heartindlow -> lab fr=39 (0.0695), cf=0.765, gamma=5.363, delta=0.057, M=-6.104e+01 
+weightnormal gonindhigh -> kmethodfour fr=34 (0.0606), cf=0.301, gamma=4.965, delta=0.048, M=-5.900e+01 
+weightnormal gonindhigh -> freezer fr=34 (0.0606), cf=0.301, gamma=4.965, delta=0.048, M=-5.900e+01 
+non-mother-female weightnormal lab -> gonindhigh fr=40 (0.0713), cf=0.909, gamma=4.474, delta=0.055, M=-5.890e+01 
+kmethodfour -> gonindhigh fr=34 (0.0606), cf=1.000, gamma=4.921, delta=0.048, M=-5.865e+01 
+freezer -> gonindhigh fr=34 (0.0606), cf=1.000, gamma=4.921, delta=0.048, M=-5.865e+01 
+non-mother-female lab heartindlow -> gonindhigh fr=37 (0.0660), cf=0.949, gamma=4.669, delta=0.052, M=-5.804e+01 
+non-mother-female liversmall weightnormal -> lab fr=32 (0.0570), cf=0.889, gamma=6.233, delta=0.048, M=-5.804e+01 
+summer weightnormal -> mother-female fr=168 (0.2995), cf=0.530, gamma=1.509, delta=0.101, M=-5.767e+01 
+summer weightnormal place3 -> nursing fr=96 (0.1711), cf=0.430, gamma=2.047, delta=0.088, M=-5.687e+01 
+liversmall appindhigh -> kmethodfour fr=19 (0.0339), cf=0.950, gamma=15.675, delta=0.032, M=-5.631e+01 
+liversmall appindhigh -> freezer fr=19 (0.0339), cf=0.950, gamma=15.675, delta=0.032, M=-5.631e+01 
+non-mother-female gonindhigh lab -> heartindlow fr=37 (0.0660), cf=0.925, gamma=4.592, delta=0.052, M=-5.599e+01 
+weightlow BMIsmall -> heartindhigh fr=48 (0.0856), cf=0.762, gamma=3.749, delta=0.063, M=-5.569e+01 
+non-mother-female weightnormal lab -> heartindlow fr=39 (0.0695), cf=0.886, gamma=4.400, delta=0.054, M=-5.545e+01 
+weightlow -> heartindhigh fr=61 (0.1087), cf=0.616, gamma=3.032, delta=0.073, M=-5.477e+01 
+heartindlow kmethodfour -> liversmall fr=29 (0.0517), cf=0.906, gamma=6.603, delta=0.044, M=-5.470e+01 
+heartindlow freezer -> liversmall fr=29 (0.0517), cf=0.906, gamma=6.603, delta=0.044, M=-5.470e+01 
+non-mother-female liversmall -> lab fr=32 (0.0570), cf=0.842, gamma=5.905, delta=0.047, M=-5.437e+01 
+liversmall heartindlow -> lab fr=31 (0.0553), cf=0.861, gamma=6.039, delta=0.046, M=-5.390e+01 
+liversmall BMIlarge -> kmethodfour fr=22 (0.0392), cf=0.710, gamma=11.710, delta=0.036, M=-5.362e+01 
+liversmall BMIlarge -> freezer fr=22 (0.0392), cf=0.710, gamma=11.710, delta=0.036, M=-5.362e+01 
+summer weightnormal kmethodone -> nursing fr=101 (0.1800), cf=0.391, gamma=1.861, delta=0.083, M=-5.240e+01 
+weightnormal kmethodone liverlarge -> nursing fr=53 (0.0945), cf=0.688, gamma=3.272, delta=0.066, M=-5.188e+01 
+liversmall weightnormal -> kmethodfour fr=29 (0.0517), cf=0.387, gamma=6.380, delta=0.044, M=-5.179e+01 
+liversmall weightnormal -> freezer fr=29 (0.0517), cf=0.387, gamma=6.380, delta=0.044, M=-5.179e+01 
+non-mother-female lab -> gonindhigh fr=40 (0.0713), cf=0.833, gamma=4.101, delta=0.054, M=-5.158e+01 
+lab heartindlow -> gonindhigh fr=39 (0.0695), cf=0.848, gamma=4.172, delta=0.053, M=-5.145e+01 
+non-mother-female weightnormal heartindlow -> gonindhigh fr=38 (0.0677), cf=0.864, gamma=4.250, delta=0.052, M=-5.140e+01 
+non-mother-female place2 -> gonindzero fr=29 (0.0517), cf=1.000, gamma=5.147, delta=0.042, M=-5.088e+01 
+kmethodfour -> liversmall fr=29 (0.0517), cf=0.853, gamma=6.214, delta=0.043, M=-5.086e+01 
